@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+Weblink : https://slicing-1-o3wc91mpr-johanpramudito.vercel.app/
+
 ## Getting Started
 
 First, run the development server:
