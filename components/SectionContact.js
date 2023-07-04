@@ -6,7 +6,7 @@ import Button from "./Button";
 
 export default function ContactSection() {
     return (
-        <section  className="container mx-auto" id="contact">
+        <section  className="container mx-auto bg-white" id="contact">
             <div className="bg-[#F7F7FB] p-14 flex rounded-lg mx-auto flex-wrap">
                 <div className="md:w-6/12 w-full md:border-r hp:border-b md:border-b-0 border-[#E8E8FB]">
                     <div className="lg:py-16 lg:px-10 md:p-10 hp:p-5">

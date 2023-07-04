@@ -6,7 +6,7 @@ SectionTitle
 
 export default function SectionProjects() {
     return(
-        <section className="py-20" id="projects">
+        <section className="py-20 bg-white" id="projects">
             <div className="container mx-auto">
                 <SectionTitle>Projects</SectionTitle>
                 <SectionParagraph>Beberapa proyek bikinan saya.</SectionParagraph>

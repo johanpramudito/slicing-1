@@ -3,7 +3,7 @@ export default function Field({ label, name, type, className }) {
     const formControlClassName = `bg-transparent border border-[#BFBFE3] py-3 px-6 w-full${addClassName}`;
     return (
         <div className="mb-6">
-            <label htmlFor={name} className="block mb-1 font-sourcesans text-sm font-semibold">{label}</label>
+            <label htmlFor={name} className="block mb-1 font-sourcesans text-sm font-semibold text-black">{label}</label>
             {type === "text" && (
                 <input type="text" name={name} id={name} className={formControlClassName} />
             )}
